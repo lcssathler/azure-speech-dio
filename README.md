@@ -1,10 +1,8 @@
-# 🎤 Projeto de Análise de Fala e Linguagem Natural com Azure AI
+# 🎤 Análise de Fala e Linguagem Natural com Azure AI
 
-## 🎯 Entendendo o Desafio
-Este projeto tem como objetivo explorar as capacidades de IA da Azure para processamento de voz e linguagem natural, documentando todo o processo de aprendizado e implementação.
+Este projeto tem como objetivo explorar as capacidades de IA da Azure para processamento de voz e linguagem natural
 
 ## 📝 Descrição do Desavio
-**Objetivo Principal:**  
 Desenvolver habilidades práticas com:
 - Azure Speech Studio (síntese e reconhecimento de fala)
 - Azure Language Studio (análise de texto e NLP)
