@@ -4,8 +4,8 @@ Este projeto tem como objetivo explorar as capacidades de IA da Azure para proce
 
 ## 📝 Descrição do Desavio
 Desenvolver habilidades práticas com:
-- Azure Speech Studio (síntese e reconhecimento de fala)
-- Azure Language Studio (análise de texto e NLP)
+- Azure Speech Studio
+- Azure Language Studio
 
 ## 🧠 Objetivos de Aprendizagem
 | Habilidade | Ferramenta | Aplicação |
@@ -25,7 +25,7 @@ Desenvolver habilidades práticas com:
 ## 📋 Passos do Projeto
 1. **Configuração Inicial**
    - Criação de recursos no Azure
-   - Acesso aos estúdios (Speech e Language)
+   - Acesso aos estúdios
 
 2. **Experimentos Práticos**
    -  Conversão texto-voz com diferentes vozes
